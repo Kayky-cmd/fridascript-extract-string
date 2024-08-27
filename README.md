@@ -1,0 +1,1 @@
+# fridascript-extract-string
